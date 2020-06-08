@@ -5,3 +5,8 @@ LWC, A new Javascript framework, introduced by Salesforce, to build lightning co
 
 - Rage Slider
 - Pagination
+
+#
+<b>Prasanta Kumar Pardhi</b>
+<br/>
+A full stack Salesforce developer turned architect
